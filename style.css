@@ -18,13 +18,13 @@ body {
 
 header {
 	height: 140px;
-	background-color: #333340;
+	background-color: #ffffff;
 	background-image:url(images/backgrounds/subtle_brown_mini_waves.jpg);
 }
 
 .logo {
   font-family: 'Times New Roman', sans-serif;
-  font-size: 72px;
+  font-size: 90px;
   color: #000000;
   text-align: center;
   letter-spacing: -3;
@@ -79,7 +79,7 @@ a:visited { color: #38786a; }
 a:hover { color: #403933; }
 a:active { color: #403933; }
 a:hover {
-	text-decoration: underline;
+	text-decoration: underline;	
 }
 
 em {
